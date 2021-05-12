@@ -464,18 +464,6 @@ F 3 "" H 1350 6150 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 6150 1350 6225
-$Comp
-L Interface_CAN_LIN:MCP2551-I-SN U1
-U 1 1 5FCD7BF5
-P 4300 6500
-F 0 "U1" H 3975 6850 50  0000 C CNN
-F 1 "MCP2551" H 4650 6875 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4300 6000 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf" H 4300 6500 50  0001 C CNN
-F 4 "MCP2551T-I/SNCT-ND" H 4300 6500 50  0001 C CNN "Digi-Key_PN"
-	1    4300 6500
-	1    0    0    -1  
-$EndComp
 Text Label 6600 3225 0    50   ~ 0
 CAN_RX
 Text Label 6600 3325 0    50   ~ 0
@@ -964,4 +952,15 @@ Wire Wire Line
 Connection ~ 5225 3625
 Wire Wire Line
 	5225 3625 5275 3625
+$Comp
+L Interface_CAN_LIN:MCP2562-H-SN U1
+U 1 1 60AA37A8
+P 4300 6500
+F 0 "U1" H 3975 6850 50  0000 C CNN
+F 1 "MCP2562-H-SN" H 4700 6150 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4300 6000 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf" H 4300 6500 50  0001 C CNN
+	1    4300 6500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
