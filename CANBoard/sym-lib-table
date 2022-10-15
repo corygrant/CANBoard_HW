@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CANBoard-rescue")(type "Legacy")(uri "${KIPRJMOD}/CANBoard-rescue.lib")(options "")(descr ""))
+)
