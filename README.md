@@ -19,3 +19,7 @@ CANBoard is a simple CAN enabled IO board, specifically designed to be used in d
 
 # Firmware
 [CANBoard firmware](https://github.com/corygrant/CANBoard_FW)
+
+# Initial Programming
+
+Use TC2030 cable 
