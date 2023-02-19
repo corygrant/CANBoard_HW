@@ -10,6 +10,8 @@ CANBoard is a simple CAN enabled IO board, specifically designed to be used in d
     * 0.5A max each
 * CAN output message format compatible with ECUMaster CAN Switch Board
 
+[Schematic PDF](/Export/V2/CANBoard_HW_V2.pdf)
+
 # Renderings
 ![Top](/Renders/CANBoard_Top.jpg)
 
