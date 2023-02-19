@@ -4,7 +4,6 @@ CANBoard is a simple CAN enabled IO board, specifically designed to be used in d
 * 8 digital inputs
 * 5 analog inputs
 * 4 digital outputs
-* I2C FRAM, because...?
 
 # Renderings
 ![Top](/Renders/CANBoard_Top.jpg)
