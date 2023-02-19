@@ -9,6 +9,8 @@ CANBoard is a simple CAN enabled IO board, specifically designed to be used in d
     * Low side switch (open collector)
     * 0.5A max each
 * CAN output message format compatible with ECUMaster CAN Switch Board
+* stm32
+* KiCad 6
 
 [Schematic PDF](/Export/V2/CANBoard_HW_V2.pdf)
 
