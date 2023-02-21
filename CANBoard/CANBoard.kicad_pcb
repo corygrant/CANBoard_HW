@@ -1977,7 +1977,7 @@
     (property "ki_description" "Inductor, small symbol")
     (property "ki_keywords" "inductor choke coil reactor magnetic")
     (path "/00000000-0000-0000-0000-00005ffcd26c")
-    (attr through_hole)
+    (attr smd)
     (fp_text reference "L1" (at -2.2 3.4 -270) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e0c6b725-f50a-405b-835b-451ddf55bbe8)
