@@ -8,14 +8,12 @@ CANBoard is a simple CAN enabled IO board, specifically designed to be used in d
 * 4 digital outputs
     * Low side switch (open collector)
     * 0.5A max each
-* CAN output message format compatible with ECUMaster CAN Switch Board
 * STM32F303K8
 * KiCad 7.0.0
 
 # Goals
 - Create a low cost device that my friends and I can use in our project cars
 - Use components that are easily soldered by hand (hence 0805) and are preferably from my stock of frequently used parts (ex: LD1117S33CTR)
-- Format the CAN messages in a similar way to the ECUMaster CAN Switch board
 - Share my work with others for reference, inspiration or collaboration. 
 
 If this project does help you in any way, I'd appreciate a message!
