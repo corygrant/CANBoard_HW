@@ -34,13 +34,13 @@ This is a personal hobby project. I am not a professional. Use at your own risk.
 # Jumpers
 **CAN Term** : Soldering this jumper enables the 120 ohm terminating resistor across CANL/CANH
 
-**CAN ID Jumpers 1 and 2** : Soldering these jumpers allows different CAN IDs to be selected when using multiple CANBoards in the same bus
-| 1      | 2      | CAN ID (Hex)|
+**CAN ID Jumpers 1 and 2** : Soldering these jumpers allows different base CAN IDs to be selected when using multiple CANBoards in the same bus
+| 1      | 2      | Base CAN ID (Hex)|
 | ------ | ------ | ----- |
 | Open   | Open   | 0x640 |
-| Closed | Open   | 0x641 |
-| Open   | Closed | 0x642 |
-| Closed | Closed | 0x643 |
+| Closed | Open   | 0x650 |
+| Open   | Closed | 0x660 |
+| Closed | Closed | 0x670 |
 
 # Firmware
 [CANBoard firmware](https://github.com/corygrant/CANBoard_FW)
