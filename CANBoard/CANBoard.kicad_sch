@@ -2233,7 +2233,7 @@
     (property "Value" "TPS56339DDCR" (at 129.54 26.0604 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 129.54 30.48 0)
+    (property "Footprint" "TO_SOT_SMD_Modify:SOT-23-6_NoPin5" (at 129.54 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 129.54 30.48 0)
