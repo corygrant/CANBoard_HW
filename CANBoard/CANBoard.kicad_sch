@@ -1922,7 +1922,7 @@
     (property "Digi-Key_PN" "732-3339-1-ND" (at 161.925 34.29 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C251691" (at 161.925 34.29 0)
+    (property "LCSC" "C467062" (at 161.925 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 64c21d02-d94c-4d09-a017-1a0247a30057))
