@@ -25,9 +25,9 @@ This is a personal hobby project. I am not a professional. Use at your own risk.
 [Schematic PDF](/Export/V2/CANBoard_HW_V2.pdf)
 
 # Images
-![Top](/Images/CANBoard_Top.jpg)
+![Top](/Images/Top.jpg)
 
-![Bottom](/Images/CANBoard_Bottom.jpg)
+![Bottom](/Images/Bottom.jpg)
 
 ![Connections](/Images/CANBoard_V2_Connections.png)
 
