@@ -18,6 +18,8 @@ CANBoard is a simple CAN enabled IO board, specifically designed to be used in d
 
 If this project does help you in any way, I'd appreciate a message!
 
+# [Store](https://dingo-electronics.square.site/product/canboard/3)
+
 # Disclaimer
 This is a personal hobby project. I am not a professional. Use at your own risk. 
 
