@@ -1,0 +1,84 @@
+VERSION "2.1.1"
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: 
+
+
+BO_ 1648 CANBoardMsg0: 8 Vector__XXX
+ SG_ ADCVolt_4 : 48|16@1+ (0.001,0) [0|0] "" Vector__XXX
+ SG_ ADCVolt_3 : 32|16@1+ (0.001,0) [0|0] "" Vector__XXX
+ SG_ ADCVolt_2 : 16|16@1+ (0.001,0) [0|0] "" Vector__XXX
+ SG_ ADCVolt_1 : 0|16@1+ (0.001,0) [0|0] "" Vector__XXX
+
+BO_ 1649 CANBoardMsg1: 8 Vector__XXX
+ SG_ BoardTemp : 48|16@1+ (1,0) [0|125] "" Vector__XXX
+ SG_ ADCVolt5 : 0|16@1+ (0.001,0) [0|6] "" Vector__XXX
+
+BO_ 1650 CANBoardMsg2: 8 Vector__XXX
+ SG_ Heartbeat : 56|8@1+ (1,0) [0|255] "" Vector__XXX
+ SG_ DigitalOutput_4 : 51|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalOutput_3 : 50|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalOutput_2 : 49|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalOutput_1 : 48|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ AnalogSwitch_5 : 44|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ AnalogSwitch_4 : 43|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ AnalogSwitch_3 : 42|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ AnalogSwitch_2 : 41|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ AnalogSwitch_1 : 40|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_8 : 39|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_7 : 38|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_6 : 37|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_5 : 36|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_4 : 35|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_3 : 34|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_2 : 33|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ DigitalInput_1 : 32|1@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ RotarySwitch_5 : 16|4@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ RotarySwitch_4 : 12|4@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ RotarySwitch_3 : 8|4@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ RotarySwitch_2 : 4|4@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ RotarySwitch_1 : 0|4@1+ (1,0) [0|0] "" Vector__XXX
+
+
+
+
+
+
+
+
+
+
+
+
