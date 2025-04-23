@@ -10,5 +10,6 @@ def build_db(base_id):
     db.messages.append(canboard.build_msg_0(base_id))
     db.messages.append(canboard.build_msg_1(base_id))
     db.messages.append(canboard.build_msg_2(base_id))
+    db.messages.append(canboard.build_msg_3(base_id))
 
     return db

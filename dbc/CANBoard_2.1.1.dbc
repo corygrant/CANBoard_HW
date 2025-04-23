@@ -71,6 +71,12 @@ BO_ 1650 CANBoardMsg2: 8 Vector__XXX
  SG_ RotarySwitch_2 : 4|4@1+ (1,0) [0|0] "" Vector__XXX
  SG_ RotarySwitch_1 : 0|4@1+ (1,0) [0|0] "" Vector__XXX
 
+BO_ 1651 CANBoardMsg3: 8 Vector__XXX
+ SG_ Output4 : 24|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Output3 : 16|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Output2 : 8|1@1+ (1,0) [0|1] "" Vector__XXX
+ SG_ Output1 : 0|1@1+ (1,0) [0|1] "" Vector__XXX
+
 
 
 
