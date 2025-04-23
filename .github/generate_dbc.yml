@@ -24,6 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Set execute permission
+        run: chmod +x dbc_builder/main.py
+
       - name: Run DBC generation script
         run: |
           python3 dbc_builder/main.py
