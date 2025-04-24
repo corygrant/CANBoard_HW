@@ -1,14 +1,18 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "20e12b6d-fd28-4d12-a9a9-d4b6d1c58701")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -78,10 +82,10 @@
 			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.3302)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -90,10 +94,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.3048)
+						(width 0.3302)
 						(type default)
 					)
 					(fill
@@ -139,11 +143,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:R_Small_US"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -213,7 +222,7 @@
 			(symbol "R_Small_US_1_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 1.016 -0.381) (xy 0 -0.762) (xy -1.016 -1.143) (xy 0 -1.524)
+						(xy 0 1.524) (xy 1.016 1.143) (xy 0 0.762) (xy -1.016 0.381) (xy 0 0)
 					)
 					(stroke
 						(width 0)
@@ -225,7 +234,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 1.524) (xy 1.016 1.143) (xy 0 0.762) (xy -1.016 0.381) (xy 0 0)
+						(xy 0 0) (xy 1.016 -0.381) (xy 0 -0.762) (xy -1.016 -1.143) (xy 0 -1.524)
 					)
 					(stroke
 						(width 0)
@@ -272,6 +281,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
@@ -351,7 +361,8 @@
 			(symbol "GND_1_1"
 				(pin power_in line
 					(at 0 0 270)
-					(length 0) hide
+					(length 0)
+					(hide yes)
 					(name "GND"
 						(effects
 							(font
@@ -368,6 +379,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -1023,7 +1035,6 @@
 	(hierarchical_label "RAW_DI6"
 		(shape input)
 		(at 62.23 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1035,7 +1046,6 @@
 	(hierarchical_label "DI2"
 		(shape output)
 		(at 72.39 56.515 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1047,7 +1057,6 @@
 	(hierarchical_label "AI3"
 		(shape input)
 		(at 189.865 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1059,7 +1068,6 @@
 	(hierarchical_label "DI3"
 		(shape output)
 		(at 72.39 64.135 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1071,7 +1079,6 @@
 	(hierarchical_label "RAW_AI1"
 		(shape input)
 		(at 163.83 29.845 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1083,7 +1090,6 @@
 	(hierarchical_label "RAW_DI4"
 		(shape input)
 		(at 62.23 71.755 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1095,7 +1101,6 @@
 	(hierarchical_label "AI2"
 		(shape input)
 		(at 189.865 50.165 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1107,7 +1112,6 @@
 	(hierarchical_label "RAW_AI4"
 		(shape input)
 		(at 161.925 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1119,7 +1123,6 @@
 	(hierarchical_label "DI7"
 		(shape output)
 		(at 72.39 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1131,7 +1134,6 @@
 	(hierarchical_label "RAW_DI2"
 		(shape input)
 		(at 62.23 56.515 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1143,7 +1145,6 @@
 	(hierarchical_label "DI5"
 		(shape output)
 		(at 72.39 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1155,7 +1156,6 @@
 	(hierarchical_label "RAW_DI3"
 		(shape input)
 		(at 62.23 64.135 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1167,7 +1167,6 @@
 	(hierarchical_label "AI1"
 		(shape input)
 		(at 191.135 29.845 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1179,7 +1178,6 @@
 	(hierarchical_label "AI5"
 		(shape input)
 		(at 189.23 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1191,7 +1189,6 @@
 	(hierarchical_label "RAW_AI2"
 		(shape input)
 		(at 162.56 50.165 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1203,7 +1200,6 @@
 	(hierarchical_label "DI4"
 		(shape output)
 		(at 72.39 71.755 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1215,7 +1211,6 @@
 	(hierarchical_label "RAW_DI5"
 		(shape input)
 		(at 62.23 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1227,7 +1222,6 @@
 	(hierarchical_label "DI8"
 		(shape output)
 		(at 72.39 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1239,7 +1233,6 @@
 	(hierarchical_label "RAW_DI8"
 		(shape input)
 		(at 62.23 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1251,7 +1244,6 @@
 	(hierarchical_label "RAW_AI5"
 		(shape input)
 		(at 161.925 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1263,7 +1255,6 @@
 	(hierarchical_label "RAW_DI1"
 		(shape input)
 		(at 62.23 48.895 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1275,7 +1266,6 @@
 	(hierarchical_label "DI6"
 		(shape output)
 		(at 72.39 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1287,7 +1277,6 @@
 	(hierarchical_label "DI1"
 		(shape output)
 		(at 72.39 48.895 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1299,7 +1288,6 @@
 	(hierarchical_label "RAW_AI3"
 		(shape input)
 		(at 162.56 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1311,7 +1299,6 @@
 	(hierarchical_label "RAW_DI7"
 		(shape input)
 		(at 62.23 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1323,7 +1310,6 @@
 	(hierarchical_label "AI4"
 		(shape input)
 		(at 189.23 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
