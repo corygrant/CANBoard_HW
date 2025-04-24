@@ -2,9 +2,13 @@ name: Generate DBC
 
 on:
   push:
-    # branches: [ main ]
-  workflow_dispatch:  # allows manual trigger
+    branches: [ main ]
+    paths:
+      - 'dbc_builder/**'
   pull_request:
+    paths:
+      - 'dbc_builder/**'
+  workflow_dispatch:  # still allows manual trigger
 
 jobs:
   build-dbc:
