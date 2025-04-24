@@ -26,12 +26,9 @@ Please note that this product has been designed by a hobbyist, not a professiona
 # Schematic
 [Schematic PDF](/Export/V2/CANBoard_HW_V2.pdf)
 
-# Images
-![Top](/Images/Top.jpg)
+# DBC
 
-![Bottom](/Images/Bottom.jpg)
-
-![Connections](/Images/CANBoard_V2_Connections.png)
+DBC file can be found [here](https://github.com/corygrant/CANBoard_FW/tree/main/dbc)
 
 # Jumpers
 **CAN Term** : Soldering this jumper enables the 120 ohm terminating resistor across CANL/CANH
@@ -49,3 +46,12 @@ Please note that this product has been designed by a hobbyist, not a professiona
 
 # Updating Firmware
 Use [Tag Connect TC2030 cable](https://www.tag-connect.com/product/tc2030-ctx-nl-stdc14-for-use-with-stm32-processors-with-stlink-v3) 
+
+
+# Images
+![Top](/Images/Top.jpg)
+
+![Bottom](/Images/Bottom.jpg)
+
+![Connections](/Images/CANBoard_V2_Connections.png)
+
