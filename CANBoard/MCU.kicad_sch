@@ -6193,7 +6193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:SOT-23-3"
+		(property "Footprint" "CANBoard:SOT-23-3"
 			(at 144.145 182.245 0)
 			(effects
 				(font

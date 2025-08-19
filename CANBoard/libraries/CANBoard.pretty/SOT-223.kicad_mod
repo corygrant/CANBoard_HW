@@ -1,0 +1,390 @@
+(footprint "SOT-223"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U2"
+		(at 0 -6.1 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "29e755f7-1030-47c7-8c55-0b75bba8e91b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LD1117S33CTR"
+		(at 0.15 5.65 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "564c3de8-7833-4f97-9763-13d0aad61082")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5901916-91d7-4326-bf0b-31abcb26dc31")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "IC REG LINEAR 3.3V 800MA SOT223"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd0a544d-97c6-42d7-9721-bfa567e72d4b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Category" "Integrated Circuits (ICs)"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b757745-702f-4480-90b0-f2811e54e58b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Datasheet_Link" "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac282c7f-53ab-4263-920c-8c4293cc24eb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Detail_Page" "/product-detail/en/stmicroelectronics/LD1117S33CTR/497-1241-1-ND/586241"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b92cece5-87d5-407b-ac02-92a495c3ef09")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "497-1241-1-ND"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0fe7068-c2c7-4bae-9d64-f2c4e9f23d4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Family" "PMIC - Voltage Regulators - Linear"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75729f5e-4941-42a8-b709-8f13de3329d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C35879"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a7f1b8d-8323-4785-9ac5-7d651b17d4f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "LD1117S33CTR"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a380cb0-8505-4dec-a1d8-cd70afb0557e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "STMicroelectronics"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da28ffa2-4f3e-4400-a915-93ea500b3517")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Status" "Active"
+		(at 226.441 -43.815 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1599af9c-5c6b-4361-bd80-ae659538aee5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.275 -1.775)
+		(end -3.275 -1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b2fe306-8ccc-4816-86dc-eb93f2331ed0")
+	)
+	(fp_line
+		(start -3.275 0.975)
+		(end -3.275 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fef15134-db13-4f0d-b6ad-a8779438b174")
+	)
+	(fp_line
+		(start -3.275 1.45)
+		(end -2.975 1.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18adcc4a-626a-429b-b967-c2f44cc71545")
+	)
+	(fp_line
+		(start -2.975 1.775)
+		(end -2.975 1.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e2e188db-8368-48bf-8f82-e7890fdafe78")
+	)
+	(fp_line
+		(start -2.775 -1.775)
+		(end -3.275 -1.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "968677a1-376c-4dcb-bfde-378cdbf5d9b1")
+	)
+	(fp_line
+		(start 2.9 -1.775)
+		(end 3.275 -1.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "abf86a70-9222-42a8-85d6-4c2dd3505090")
+	)
+	(fp_line
+		(start 3.275 -1.775)
+		(end 3.275 -1.475)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f60b8c9-ae83-4467-81be-86846bf4d875")
+	)
+	(fp_line
+		(start 3.275 1.3)
+		(end 3.275 1.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d13757f1-5419-4deb-948c-f8dc7758e50a")
+	)
+	(fp_line
+		(start 3.275 1.775)
+		(end 2.825 1.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f36cda0b-985d-411b-adb8-86f5d51bb138")
+	)
+	(fp_line
+		(start -3.45 -4.45)
+		(end -3.45 4.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d0cf8e0-f239-4ec1-abd4-db334925e8c9")
+	)
+	(fp_line
+		(start -3.45 4.45)
+		(end 3.45 4.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a6cc9c45-7f33-4b9e-9e67-50f693c38376")
+	)
+	(fp_line
+		(start 3.45 -4.45)
+		(end -3.45 -4.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "61e3c1d6-c59f-458b-a30c-aa6066c8f551")
+	)
+	(fp_line
+		(start 3.45 -4.45)
+		(end 3.45 4.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f411bee9-3a46-4334-a799-0430ce07f493")
+	)
+	(fp_line
+		(start -3.15 -1.65)
+		(end 3.15 -1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "768acddd-0c88-4569-8cbf-e9d79297b280")
+	)
+	(fp_line
+		(start -3.15 1.35)
+		(end -3.15 -1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a2d18375-3355-4c63-9429-c1020173d145")
+	)
+	(fp_line
+		(start -3.15 1.35)
+		(end -2.875 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6066a3e3-ccc9-4e12-afac-be2b9ec6a44a")
+	)
+	(fp_line
+		(start 3.15 -1.65)
+		(end 3.15 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d17dd31d-189d-469f-8382-f2822be79284")
+	)
+	(fp_line
+		(start 3.15 1.65)
+		(end -2.875 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cbcc86af-19ca-4475-bb82-9fd17285223d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.05 0.025 0)
+		(layer "F.Fab")
+		(uuid "8512961a-104d-4ec0-b2bf-e8003fd4ab46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.3 3.15)
+		(size 1.5 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "37ce0640-3e08-4eaf-b6b8-a7312f340a25")
+	)
+	(pad "2" smd rect
+		(at 0 3.15)
+		(size 1.5 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "af11de63-0291-432a-a4f1-d0b6dbcdf029")
+	)
+	(pad "3" smd rect
+		(at 2.3 3.15)
+		(size 1.5 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a76d6538-b8d6-4c19-b0e6-af5df41ba19d")
+	)
+	(pad "4" smd rect
+		(at 0 -3.15)
+		(size 3.8 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "aea8e052-c53c-48f5-bd76-ac1d36cef48f")
+	)
+	(embedded_fonts no)
+	(model "D:/KiCad/Libraries/digikey-kicad-library-master/User Library-sot-223.STEP"
+		(offset
+			(xyz 0 0 0.8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

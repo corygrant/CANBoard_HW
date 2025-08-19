@@ -285,8 +285,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352a2")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -509,8 +510,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352a8")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -733,8 +735,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352ae")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -957,8 +960,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc946f")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1181,8 +1185,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352b4")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1405,8 +1410,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352ba")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1629,8 +1635,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352c6")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1841,7 +1848,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fe60d97")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2112,7 +2121,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-00005fd6e257")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -2236,8 +2247,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc94aa")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2460,8 +2472,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcd1138")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2684,8 +2697,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcd1132")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2908,8 +2922,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc9496")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3132,8 +3147,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc9457")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3356,8 +3372,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc94b0")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3580,8 +3597,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc9480")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3804,8 +3822,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcd112c")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4028,8 +4047,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fd0b216")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4252,8 +4272,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe41a8d")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4476,8 +4497,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3f9e1")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4700,8 +4722,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc9451")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4912,7 +4935,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/00000000-0000-0000-0000-00005fd6e663")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -4958,7 +4983,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "digikey-footprints:SOT-23-3"
+	(footprint "CANBoard:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005fc8529f")
 		(at 151.13 81.28)
@@ -5119,7 +5144,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcf49ab")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5130,7 +5155,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "315a6980-e936-427e-affe-e2d1480556b7")
+			(uuid "0b4b29b1-2292-4852-8830-6b2ba0dba8a0")
 		)
 		(fp_line
 			(start -0.825 -1.325)
@@ -5140,7 +5165,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f4b3f9c9-0d2b-46a6-aa21-1ea51d83b0da")
+			(uuid "6f9359d4-1d32-412d-abfb-005d0ed6254b")
 		)
 		(fp_line
 			(start -0.825 1.65)
@@ -5150,7 +5175,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cb4bb2b7-12d0-4245-8361-2edc513ca31b")
+			(uuid "5b7a65fd-e5f6-4eea-995e-bfe1218233a0")
 		)
 		(fp_line
 			(start -0.45 -1.65)
@@ -5160,7 +5185,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "25b9646d-6ac6-477e-b72c-7790b0d1bc62")
+			(uuid "0f685898-c29a-488f-8f7b-120cdcc6a6ca")
 		)
 		(fp_line
 			(start -0.35 1.65)
@@ -5170,7 +5195,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e3146bc4-b295-41b3-a210-83c0d6df13e7")
+			(uuid "d8148456-bc8f-4308-8b05-a9b2eaa6827b")
 		)
 		(fp_line
 			(start -0.175 -1.65)
@@ -5180,7 +5205,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "232c2ca0-a650-423c-b097-9bdcbd16dd12")
+			(uuid "9fc83429-5780-4585-b407-23be963fa688")
 		)
 		(fp_line
 			(start 0.45 -1.65)
@@ -5190,7 +5215,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3e9d01e7-6ce7-4fcb-bc67-a26a57749354")
+			(uuid "0e306eae-d862-4b41-8731-0c7037528177")
 		)
 		(fp_line
 			(start 0.825 -1.65)
@@ -5200,7 +5225,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0b4269ed-c49a-45f8-8fe8-57337bc0ba30")
+			(uuid "e74858b9-e27d-4ff5-8a16-7c1f73fcd314")
 		)
 		(fp_line
 			(start 0.825 1.35)
@@ -5210,7 +5235,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "54346f02-af29-4663-9d02-677fca8358a3")
+			(uuid "2ec06076-044d-4373-a09f-6cde6a032753")
 		)
 		(fp_line
 			(start 0.825 1.425)
@@ -5220,7 +5245,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fc641663-d4c5-41a5-a857-d68f2c5234aa")
+			(uuid "b3fcef7f-f159-4a56-97c5-8ca8d5c2f88b")
 		)
 		(fp_line
 			(start 0.825 1.65)
@@ -5230,7 +5255,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "79a972af-2384-415b-9ace-aa64332aaf03")
+			(uuid "ae923645-a540-4b8b-9a67-be765a83cc6b")
 		)
 		(fp_line
 			(start -1.825 -1.95)
@@ -5240,7 +5265,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f7284939-4e01-4855-82c3-f2e77893eae0")
+			(uuid "7608baf0-f4f6-4c58-b847-b714fbbea614")
 		)
 		(fp_line
 			(start -1.825 -1.95)
@@ -5250,7 +5275,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d3d0cc69-6db3-498e-b494-b8313b79c658")
+			(uuid "5b92549f-de1e-4d29-aa31-556e05bfa075")
 		)
 		(fp_line
 			(start 1.825 -1.95)
@@ -5260,7 +5285,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b6c1ac0f-971d-4ba1-b5cd-54acb25080de")
+			(uuid "9dd6fd99-1246-4ef0-83a8-fd4ef8329398")
 		)
 		(fp_line
 			(start 1.825 1.95)
@@ -5270,7 +5295,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bca78d08-8831-4631-b8bb-7a9b7a16939a")
+			(uuid "fa2c7e6f-2006-4dd5-9c41-5c4046b50847")
 		)
 		(fp_line
 			(start -0.7 -1.325)
@@ -5280,7 +5305,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "131bf751-de02-493c-93cf-9df446186a75")
+			(uuid "063caebc-7ce4-4058-bd21-eda4bc08e313")
 		)
 		(fp_line
 			(start -0.7 1.52)
@@ -5290,7 +5315,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "18528097-cf19-4475-891c-5327223b30d8")
+			(uuid "2709de06-ee3e-4209-a2b9-bd3b1aac4411")
 		)
 		(fp_line
 			(start -0.425 -1.525)
@@ -5300,7 +5325,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "46e1bdce-dc89-494e-9624-f3de3bba0863")
+			(uuid "8d62368d-619c-433f-ae72-f48aad952390")
 		)
 		(fp_line
 			(start -0.425 -1.525)
@@ -5310,7 +5335,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f54bb0ee-d46b-4bc3-a6c6-2b2256444502")
+			(uuid "faeca3a7-817e-4815-90fd-7a268993fcce")
 		)
 		(fp_line
 			(start 0.7 1.52)
@@ -5320,7 +5345,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f2d534ae-3454-465e-b638-359b7e3f42cf")
+			(uuid "176c52e0-d234-4fb5-98eb-431bbe451ff2")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -0.125 0.15 0)
@@ -5361,7 +5386,7 @@
 			(uuid "a4892c44-75d3-43b9-8e6b-62fbc5bf52d8")
 		)
 		(embedded_fonts no)
-		(model "D:/KiCad/Libraries/digikey-kicad-library-master/User Library-SOT23-3.step"
+		(model "${KIPRJMOD}/libraries/models/User Library-SOT23-3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5451,8 +5476,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Crystal*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc943d")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5779,8 +5805,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LQFP*7x7mm*P0.8mm*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcc9437")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6574,8 +6601,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fd0230c")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6798,7 +6826,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffcd28a")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7021,7 +7051,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffcd278")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7244,7 +7276,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffcd29c")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7467,7 +7501,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffcd2a2")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7688,7 +7724,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/00000000-0000-0000-0000-00005ffcd26c")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7790,7 +7828,7 @@
 			(uuid "aa519b7c-6025-434d-bc60-e450a43bdc86")
 		)
 		(embedded_fonts no)
-		(model "D:/KiCad/Libraries/Inductors_SMD/74437324010_Download_STP_WE-LHMI-4020_rev1.stp"
+		(model "${KIPRJMOD}/libraries/models/74437324010_Download_STP_WE-LHMI-4020_rev1.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7880,7 +7918,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005ffcd27e")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8103,7 +8143,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005ffcd290")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8248,7 +8290,7 @@
 			)
 		)
 	)
-	(footprint "TO_SOT_SMD_Modify:SOT-23-6_NoPin5"
+	(footprint "CANBoard:SOT-23-6_NoPin5"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005fc8780f")
 		(at 149.606 90.6145)
@@ -8327,6 +8369,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005ffcd2a8")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8337,7 +8380,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9681fd19-0ed7-4486-bd6a-b3e825289a4a")
+			(uuid "c6802216-8022-46ee-a585-d47d87c97824")
 		)
 		(fp_line
 			(start 0 -1.56)
@@ -8347,7 +8390,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "66ec0498-2787-4c70-8301-2ad1fe0039fe")
+			(uuid "31bde821-367c-4c7f-9021-249ff7c8d083")
 		)
 		(fp_line
 			(start 0 1.56)
@@ -8357,7 +8400,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4909795c-fb85-476c-9ca7-99a454c76611")
+			(uuid "c4cf8d52-a1a9-4022-ae1c-a87a6a4bc354")
 		)
 		(fp_line
 			(start 0 1.56)
@@ -8367,7 +8410,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1bd2a74a-ecd8-4dc1-bc08-7e7c59a7822e")
+			(uuid "780fa442-016d-46fc-95fa-e970114dc1d7")
 		)
 		(fp_line
 			(start -2.05 -1.7)
@@ -8377,7 +8420,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ff1a5fff-889c-4482-a8c1-6c9a2ae766d7")
+			(uuid "80efed70-18ab-4e6d-aa0b-c9278ea864a0")
 		)
 		(fp_line
 			(start -2.05 1.7)
@@ -8387,7 +8430,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0164c15e-923e-46b4-b274-ae9deb97f8a3")
+			(uuid "f527c82e-ff32-4979-a6a6-6420f7e600a2")
 		)
 		(fp_line
 			(start 2.05 -1.7)
@@ -8397,7 +8440,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f2fbd1ea-46c1-4967-8d26-26d1c63885ac")
+			(uuid "a26b4375-063d-4ba6-8d46-4bbb28bee044")
 		)
 		(fp_line
 			(start 2.05 1.7)
@@ -8407,7 +8450,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9c3889fd-875d-4962-b7d4-6c213c091b72")
+			(uuid "b7034a6c-b840-4570-b93e-cdf2344b1f71")
 		)
 		(fp_line
 			(start -0.8 -1.05)
@@ -8417,7 +8460,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bfea9740-e745-4c1a-b8d3-cf6d15f2c6f4")
+			(uuid "a298cdee-aa92-441b-82a3-8d1d253b519c")
 		)
 		(fp_line
 			(start -0.8 1.45)
@@ -8427,7 +8470,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5ccffe1b-3fef-4465-9919-6d1bbd1c9328")
+			(uuid "0a3b50cf-162c-48e5-94ab-7f95ca8cd7c7")
 		)
 		(fp_line
 			(start -0.4 -1.45)
@@ -8437,7 +8480,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "854e8110-b29b-41ab-b3ff-722102787625")
+			(uuid "d3f1d29c-bcf2-4b08-88cd-be0f1c2756fe")
 		)
 		(fp_line
 			(start 0.8 -1.45)
@@ -8447,7 +8490,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dd11c061-b3f3-4695-9d02-180045ea72f5")
+			(uuid "72fd2b65-81b4-44a5-b521-24a79d195f30")
 		)
 		(fp_line
 			(start 0.8 1.45)
@@ -8457,7 +8500,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9cd7e216-08e6-46a8-bdbd-12ea5d11b692")
+			(uuid "e52c5417-14c1-465a-b1a8-7d9c7c3ed3f8")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -8611,7 +8654,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffda172")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8756,7 +8801,7 @@
 			)
 		)
 	)
-	(footprint "digikey-footprints:SOT-223"
+	(footprint "CANBoard:SOT-223"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005fc8910d")
 		(at 135.128 91.313 90)
@@ -8917,6 +8962,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005ffd7123")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8927,7 +8973,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "db3997e3-05e7-4e07-8c33-fdb326bbbd83")
+			(uuid "8ce28c8a-f6a0-4b19-9061-b2192ca945db")
 		)
 		(fp_line
 			(start 2.9 -1.775)
@@ -8937,7 +8983,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e256be0c-ad61-47f4-8be9-f8ae4906b02a")
+			(uuid "7ee1cf51-34bc-4aed-921c-1c82abb59101")
 		)
 		(fp_line
 			(start -2.775 -1.775)
@@ -8947,7 +8993,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "548587b2-24a0-4dfc-bf26-a17290672390")
+			(uuid "da98de5f-2905-4bf2-91ec-359afcfe0eb1")
 		)
 		(fp_line
 			(start -3.275 -1.775)
@@ -8957,7 +9003,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "53f4148c-d55b-4474-843a-26e63e8248bf")
+			(uuid "22035274-a585-4ed2-822e-65e316998323")
 		)
 		(fp_line
 			(start -3.275 0.975)
@@ -8967,7 +9013,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9b43a262-df82-48d5-8ffa-4250364235d8")
+			(uuid "ec9cb57f-2c85-434f-8f64-7d903c59e63f")
 		)
 		(fp_line
 			(start 3.275 1.3)
@@ -8977,7 +9023,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3daaabce-f24b-4042-99f4-e04a90d7d3fc")
+			(uuid "d004e957-1746-4466-8e1e-511ac7019fc2")
 		)
 		(fp_line
 			(start -3.275 1.45)
@@ -8987,7 +9033,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "539f4cf0-1997-471c-a91e-01bcd804ad22")
+			(uuid "b5015723-85a1-4fd3-9bb7-d1b607b04aa5")
 		)
 		(fp_line
 			(start 3.275 1.775)
@@ -8997,7 +9043,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "00718bdc-fc66-40df-9f11-69506a8757eb")
+			(uuid "28312d52-e04e-4a29-b813-68fcb90bc2ee")
 		)
 		(fp_line
 			(start -2.975 1.775)
@@ -9007,7 +9053,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "68b1728a-4f61-4a14-b17e-ce9adee2714f")
+			(uuid "6d3ccb4c-073d-444a-9039-1f4db24bcb73")
 		)
 		(fp_line
 			(start 3.45 -4.45)
@@ -9017,7 +9063,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "18547a01-7c41-4736-a25b-1478f55c3f93")
+			(uuid "2c2f8b55-0ef3-4151-8a09-e4612fc47b09")
 		)
 		(fp_line
 			(start 3.45 -4.45)
@@ -9027,7 +9073,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cf783428-9809-4dc3-a983-a49e2f039f4e")
+			(uuid "e7be651b-2dc5-4528-990c-4bb252289ca1")
 		)
 		(fp_line
 			(start -3.45 -4.45)
@@ -9037,7 +9083,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f2346b45-ed96-480b-b26c-a4a4580ef924")
+			(uuid "bb9371d8-99b2-444c-8c5e-cc76da47415f")
 		)
 		(fp_line
 			(start -3.45 4.45)
@@ -9047,7 +9093,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "437cb9db-226c-4575-bad8-5f17ec5c48ab")
+			(uuid "e274b54a-a3c6-479f-9709-509064d39110")
 		)
 		(fp_line
 			(start 3.15 -1.65)
@@ -9057,7 +9103,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2c04091b-670c-480d-8eda-0d582e978ddf")
+			(uuid "aa9624e9-c42b-4c24-9f94-bd41d7e8426c")
 		)
 		(fp_line
 			(start -3.15 -1.65)
@@ -9067,7 +9113,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7123a1e9-7d4d-4d73-86cd-91c1af66ac75")
+			(uuid "61b5034a-786d-4568-9c0f-033599f926f8")
 		)
 		(fp_line
 			(start -3.15 1.35)
@@ -9077,7 +9123,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c764fd1e-682c-4625-8667-9ab1aa359dec")
+			(uuid "c9f65dd7-45d3-4a45-bcf0-f8c0ab5faf26")
 		)
 		(fp_line
 			(start -3.15 1.35)
@@ -9087,7 +9133,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2db3d80c-453a-42e1-bf6c-7153d61518e3")
+			(uuid "8b550273-60b0-42e6-9172-7b026c1d0d5c")
 		)
 		(fp_line
 			(start 3.15 1.65)
@@ -9097,7 +9143,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8555f70b-0dbe-4cf4-a3a0-926d237af3db")
+			(uuid "1241ecf2-e17b-4150-93bb-84e5045bfcfd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -0.05 0.025 90)
@@ -9147,7 +9193,7 @@
 			(uuid "b8423e1b-d6de-461e-a71c-090e7ef5fd04")
 		)
 		(embedded_fonts no)
-		(model "D:/KiCad/Libraries/digikey-kicad-library-master/User Library-sot-223.STEP"
+		(model "${KIPRJMOD}/libraries/models/User Library-sot-223.STEP"
 			(offset
 				(xyz 0 0 0.8)
 			)
@@ -9237,8 +9283,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3529c")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9449,7 +9496,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/00000000-0000-0000-0000-00005fcace67")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
@@ -9563,7 +9612,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffcd272")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9786,7 +9837,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005ffcd296")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9997,7 +10050,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fe6d488")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -10280,7 +10335,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/00000000-0000-0000-0000-00005fee1d70")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10525,8 +10582,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcedf44")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10749,7 +10807,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fee35af")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10972,8 +11032,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfe22")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11197,7 +11258,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfdf3")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11459,8 +11520,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfe45")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11683,8 +11745,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfdd5")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11907,8 +11970,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfdf9")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12132,7 +12196,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfe16")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12394,8 +12458,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfdff")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12619,7 +12684,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfe39")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12881,8 +12946,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfe1c")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13105,8 +13171,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfddb")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13329,8 +13396,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfe3f")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13554,7 +13622,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fdcbce4/00000000-0000-0000-0000-00005fdcfdcf")
-		(sheetname "Outputs")
+		(sheetname "/Outputs/")
 		(sheetfile "Outputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13804,8 +13872,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-00005fcfdd85")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -14072,7 +14141,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fe7a624")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14355,8 +14426,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352c0")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14579,7 +14651,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffd9d51")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14802,8 +14876,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3b777")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15026,8 +15101,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3f9d5")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15250,8 +15326,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352cc")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15474,8 +15551,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe41a81")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15698,8 +15776,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3d9e0")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15910,7 +15989,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fe64e9a")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16193,8 +16274,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352d8")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16417,8 +16499,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3b783")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16641,8 +16724,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3d9ec")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16865,8 +16949,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe352d2")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17089,8 +17174,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3b77d")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17313,8 +17399,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3d9e6")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17537,8 +17624,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe41a87")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17761,8 +17849,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fe2d02a/00000000-0000-0000-0000-00005fe3f9db")
-		(sheetname "Inputs")
+		(sheetname "/Inputs/")
 		(sheetfile "Inputs.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17985,8 +18074,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-0000600e5a7f")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18209,8 +18299,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-0000600e82d0")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18433,7 +18524,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00005ffcd284")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18656,8 +18749,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/00000000-0000-0000-0000-000060aa37a8")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18960,8 +19054,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/cf3ac0d9-d878-481d-b8c8-74fb4609158e")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -19228,8 +19323,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/6cd08574-e56d-476b-beb6-2f2c17572efa")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -19489,8 +19585,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/00000000-0000-0000-0000-00005fcc130a/e5a042bc-f809-4dae-8f18-9ea8a1319ada")
-		(sheetname "MCU")
+		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -19691,7 +19788,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "DRTLogo:DRTLogo"
+	(footprint "CANBoard:DRTLogo"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fca2dbd")
 		(at 128.292349 72.711369 -135)
@@ -19722,7 +19819,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 225)
+			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ea29e19-6f2e-4ff4-9897-951193edd891")
@@ -19734,7 +19831,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 225)
+			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f280f057-37c0-40fe-ae37-3941989699f3")
@@ -19746,7 +19843,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 167.594037 214.842461 0)
+			(at 167.594037 214.842461 180)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "464bddf1-e309-489a-be87-77bdf74be37c")
@@ -19759,6 +19856,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fcd90d2")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr through_hole)
 		(fp_poly
@@ -19778,7 +19876,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "3474c8b1-6182-4634-9cae-4ff0b6a8e247")
+			(uuid "5e44fae7-f2d2-49d5-852f-343048c76fc9")
 		)
 		(fp_poly
 			(pts
@@ -19808,7 +19906,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "6a5cf46b-6d42-4ec9-a67d-7c3d58858f03")
+			(uuid "40cf4083-764c-4f23-8ac3-2f4269593d34")
 		)
 		(fp_poly
 			(pts
@@ -19861,7 +19959,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "f7759ed7-cbd7-4945-957e-1e384475c962")
+			(uuid "d37df7b5-53e2-4986-8e45-3d436a07ca2d")
 		)
 		(fp_poly
 			(pts
@@ -19977,7 +20075,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "0b3b8001-2d35-40de-bead-b72c90d8dee9")
+			(uuid "5c8153ce-0f13-4262-9c8b-2927d967acbe")
 		)
 		(fp_poly
 			(pts
@@ -20125,7 +20223,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "e3089fad-fe44-4832-b5a0-df48574f4b8a")
+			(uuid "39b4b147-86e0-4fe4-a3bf-0604d9b2cd93")
 		)
 		(fp_poly
 			(pts
@@ -20283,11 +20381,11 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "fe130fc6-d440-414a-a2f0-1aab7ee2bec4")
+			(uuid "dbdb4d10-bd75-4fae-9bde-f41f3f6e6ce9")
 		)
 		(embedded_fonts no)
 	)
-	(footprint "DRTLogo:DingoFaceNoFill"
+	(footprint "CANBoard:DingoFaceNoFill"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00005fca2dc9")
 		(at 137.16 85.09 180)
@@ -20318,7 +20416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2eed51f0-6af5-43f2-88ae-a9ba7a410b48")
@@ -20330,7 +20428,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96378340-6f7b-4627-8aec-702794c9798c")
@@ -20355,6 +20453,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005fce0dc0")
+		(sheetname "/")
 		(sheetfile "CANBoard.kicad_sch")
 		(attr through_hole)
 		(fp_poly
@@ -20382,7 +20481,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "0027c6a1-5236-4667-9407-0198936ace29")
+			(uuid "a4326420-b064-43ef-a3a6-2412a8549aca")
 		)
 		(fp_poly
 			(pts
@@ -20413,7 +20512,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "7fc7958e-730a-49e1-b5a5-22d9bbe96cc9")
+			(uuid "f0946113-9277-4443-8619-b3ab01e4329a")
 		)
 		(fp_poly
 			(pts
@@ -20446,7 +20545,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "1ab7a814-5477-4b68-a048-01df08784680")
+			(uuid "def4c331-b48c-4d5d-9a2b-55ed7f43f4ac")
 		)
 		(fp_poly
 			(pts
@@ -20484,7 +20583,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "388e8b31-25de-48f7-b5ad-24de6e565d12")
+			(uuid "bcc92bb7-bbaf-41e3-ae9f-861d5025c07e")
 		)
 		(fp_poly
 			(pts
@@ -20559,7 +20658,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "0a75a051-3829-421a-93fd-02db1d871481")
+			(uuid "0abac07a-ae45-4289-be30-a58b7b23732d")
 		)
 		(fp_poly
 			(pts
@@ -20642,7 +20741,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "4369dde3-a4b5-4bfb-b8b2-9b49a2076b56")
+			(uuid "b72bf931-f05f-4409-a1de-34fb9a82ef0f")
 		)
 		(fp_poly
 			(pts
@@ -20735,7 +20834,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "3beeb3bd-9771-4ce1-a6cd-767f3435ca0f")
+			(uuid "1e5a13d6-9ff0-4e9b-80ce-060ac380428e")
 		)
 		(fp_poly
 			(pts
@@ -22451,7 +22550,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "69a177da-8d29-4af1-9a4f-f57deea3fabd")
+			(uuid "8e90c862-6302-4ae5-b49b-2eae99e651ce")
 		)
 		(embedded_fonts no)
 	)

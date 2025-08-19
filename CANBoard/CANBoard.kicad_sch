@@ -3849,7 +3849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DRTLogo:DRTLogo"
+		(property "Footprint" "CANBoard:DRTLogo"
 			(at 265.43 135.89 0)
 			(effects
 				(font
@@ -3921,7 +3921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DRTLogo:DingoFaceNoFill"
+		(property "Footprint" "CANBoard:DingoFaceNoFill"
 			(at 265.43 142.24 0)
 			(effects
 				(font
@@ -5877,7 +5877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TO_SOT_SMD_Modify:SOT-23-6_NoPin5"
+		(property "Footprint" "CANBoard:SOT-23-6_NoPin5"
 			(at 129.54 30.48 0)
 			(effects
 				(font
@@ -6234,7 +6234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "digikey-footprints:SOT-223"
+		(property "Footprint" "CANBoard:SOT-223"
 			(at 225.425 29.21 0)
 			(effects
 				(font
