@@ -32,7 +32,7 @@ DBC file can be found [here](https://github.com/corygrant/CANBoard_FW/tree/main/
 
 # BOM
 
-[Interactive BOM](https://htmlpreview.github.io/?https://github.com/corygrant/CANBoard_HW/tree/main/docs/bom/ibom.html)
+[Interactive BOM](https://htmlpreview.github.io/?https://github.com/corygrant/CANBoard_HW/blob/main/docs/bom/ibom.html)
 
 # Jumpers
 **CAN Term** : Soldering this jumper enables the 120 ohm terminating resistor across CANL/CANH
